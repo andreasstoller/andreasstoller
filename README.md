@@ -1,5 +1,5 @@
 - 👋 Hello, I am Andreas Stoller and recently graduated with a Master's degree in Economics at the HEC Lausanne (Switzerland)
-- 👀 I am interested in behavioural economics and microeconomics such as labour, health or development economics
+- 👀 I am interested in behavioural economics and applied microeconomics such as labour, health or development economics
 - 🌱 I write code in R and Stata
 - 📫 You can reatch me on Twitter @stollerandreas or on LinkedIn: linkedin.com/in/andreasstoller/
 
